@@ -1,0 +1,29 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+  <appData>
+  	 <headerData>
+		 <data key="titre de l'application"> Sen Money </data>
+	 </headerData>
+
+		<menuData>
+			<data key="indicatifName">Sen money</data>
+			<data key="menuName"> Menu</data>
+			<data key="soldeName">afficherSolde</data>
+		</menuData>
+
+		<contentData>
+		<data key ="contenu de l'application">
+	Sen Money est une application permettant
+ 	le transfert d'argent et paiement mobile.
+	l'application Sen Money a pour indicatif #221# qui affiche un menu 
+	avec quatre possiblité (1:solde de mon compte,2:transfert d'argent,
+	3:Paiement de facture, 4:option)  
+	et un zone de saisi qui nous permet de faire notre choix.
+
+https://github.com/Rokhaya16/ProjetJavascript20.git
+		</data>
+
+		</contentData>
+		<footerData>
+		
+		</footerData>
+	</appData>

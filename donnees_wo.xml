@@ -1,0 +1,46 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+  <appData>
+  	 <headerData>
+		 <data key="titre_de_l_application"> Sen Money </data>
+	 </headerData>
+
+		<menuData>
+			<data key="indicatifName"> Sen money</data>
+			<data key="menuName"> Menu</data>
+			<data key="soldeName">afficherSolde</data>
+		</menuData>
+
+		<contentData>
+		<data key ="contenu_de_l_application">
+			dugeuleul sa numero téléphone?
+			------ SENMONEY MENU ------
+			dugeuleul si numéro service yi bénneu
+			1: xaliss bi nekkeu si compte
+			2: Yonnel xaliss
+			3: Fayal say facture
+			4: Options
+			1:Yonnel xaliss si bénen numéro
+			2:Yénen
+			Dugeuleul numéro téléphone binga beuggeu yoné xaliss :
+			Dugeuleul ndieugue guingay yonné(en FCFA)
+			dugeuleul sa code?
+			Sa xaliss si 10000 la tollu
+			Dangay déllu si menu bi wala dète?
+			utilisateur dafa beug annuler programme bi!
+			Tannal benneu :
+			1:xaliss bi nékk si samay compte
+			2:Diuroomi transactions yi mujju
+			3:Modification du code secret
+			4:Consultation Statut
+			Pour jot li nékk si sa compte Sen Money par SMS, dugeuleul sa code secret:
+			Pour jot 5 transactions Sen Money yinga mujjé déf par SMS, dugeuleul sa code secret.
+			Ndax danga beuggeu dindi sa code Sen Money déf bénén, dugeuleul sa code secret bingay utilisé ni
+			Sa statut manula may ngay déf opération bu eupe 200 000F.
+			Pour yokkeuco ba 2 000 000, démal si point SM ou Kiosque SM nga yobbalé sa pièce d'identité.
+		</data>
+
+		</contentData>
+		<footerData>
+		
+		</footerData>
+	</appData>

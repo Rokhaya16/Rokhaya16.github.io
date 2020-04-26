@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Sen Money</title>
+        <meta charset="UTF-8">
+        <script text="text/javascript", src="scripts.js"></script>
+        <link rel="stylesheet", type="text/css", href="style.css">
+        
+        
+    </head>
+    <body id = container>
+        <select id="langselector" onchange="loadlang()">
+            <option value="fr">Français</option>
+            <option value="en">English</option>
+            <option value="wo">Wolof</option>
+        </select><br>
+        <h1>Sen Money</h1><br><br><br><br><br><br><br>
+        <button type="button", onclick="number()"> #221# </button> 
+        
+        <script>
+            function loadlang()
+              {
+              var lng = document.getElementById("langselector").value;
+              var cnt = document.getElementById("container");
+              switch (lng)
+                {
+                case "en":
+                  cnt.src ="donnees_en.xml";
+                break;
+                case "fr":
+                  cnt.src ="donnees_fr.xml";
+                break;
+                case "wo":
+                  cnt.src ="donnees_wo.xml";
+                break;
+              }
+            </script>
+    </body>
+</html>

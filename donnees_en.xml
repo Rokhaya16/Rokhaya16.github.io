@@ -1,0 +1,46 @@
+﻿ <?xml version="1.0" encoding="UTF-8"?>
+  <appData>
+  	 <headerData>
+		 <data key="titre_de_l_application"> SEN MONEY</data>
+	 </headerData>
+
+		<menuData>
+			<data key="indicatifName"> Sen money </data>
+			<data key="menuName"> Menu  </data>
+			<data key="soldeName">afficherSolde</data>
+			<data key="transfertName">transfertArgent</data>
+		</menuData>
+		<contentData>
+		<data key ="contenu_de_l_application">
+			Enter your phone number?
+			------ SENMONEY MENU ------
+			Enter the number of the chosen service
+			1: Balance of my account
+			2: Money transfer
+			3: Bill payment
+			4: Options
+			1: Transfer to another number
+			2: Others
+			Enter the phone number that should receive the money transfer:
+			Please enter the amount you wish to transfer (in FCFA)
+			Enter your security code?
+			your account balance is 10,000
+			Do you want to return to the menu?
+			The user wants to cancel the program!
+			Please choose :
+			1: Balance of my accounts
+			2: Last five transactions
+			3: Modification of the secret code
+			4: Status Consultation
+			To receive the balance of your Sen Money account by SMS, please enter your secret code:
+			To receive your last 5 Sen Money transactions by SMS, please enter your secret code.
+			You will change your Sen Money secret code, please enter your current secret code
+			Your Sen Money status does not allow you to make transactions  nof more than 200,000F.
+			To increase it to 2,000,000, go to the SM point or SM Kiosk with your ID.
+		</data>
+
+		</contentData>
+		<footerData>
+		
+		</footerData>
+	</appData>
